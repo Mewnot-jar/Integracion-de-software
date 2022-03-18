@@ -1,0 +1,19 @@
+1. Crear grupo.
+2. Idea de proyecto:
+        *Problematica y/o oportunidad.
+        *Soluciones.
+        *Establecer objetivos:
+              -General.
+              -Especificos.
+        *Requerimientos:
+              -Recopilar informacion referente al proyecto desde el cliete y/o usuario.
+              -Historia de usuario.
+              -Requerimientos funcionales y no funcioales.
+              -Analizar desde lo tecnico ----> Modelamiento de: Caso de uso
+                                                                Alto nivel
+                                                                Nivel detallado
+                                                                Clases
+                                                                Secuencia
+                                                                Proceso
+                                                                Interfaces ---> Wireframe y mockups
+              -BD.
